@@ -1,18 +1,20 @@
 {
   "name": "ng-boolean-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically convert input of your Angular component to boolean",
   "keywords": [
     "angular",
     "angular2",
     "angular4",
     "angular5",
+    "angular6",
     "ionic",
     "input",
     "boolean",
     "decorator"
   ],
   "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT",
   "repository": "github:katemihalikova/ng-boolean-input",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
