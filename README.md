@@ -37,7 +37,7 @@ Then, you can simply use the input attribute name to turn it on and omit it to t
 <your-component [yourInput]="false"></your-component> <!-- yourInput is false -->
 ```
 
-You can also use the decorator in any other place where you need an automatic conversion to boolean, or you can use the function directly outside Angular, even when decorators are not supported in your environment.
+You can also use the decorator in any other place where you need an automatic conversion to boolean, or you can use the function directly outside Angular, even when decorators are not supported in your environment. Using the decorator or the function over a setter (with or without a getter) is also supported.
 
 If needed, you can also just convert any value to boolean using the logic used in the decorator:
 
