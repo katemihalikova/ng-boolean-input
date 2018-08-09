@@ -8,7 +8,7 @@
     "noUnusedParameters": true,
     "lib": ["es2015", "dom"],
     "types": [],
-    "module": "es2015",
+    "module": "umd",
     "moduleResolution": "node",
     "target": "es2015",
     "declaration": true,
