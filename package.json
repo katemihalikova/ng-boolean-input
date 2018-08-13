@@ -1,6 +1,6 @@
 {
   "name": "ng-boolean-input",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Automatically convert input of your Angular component to boolean",
   "keywords": [
     "angular",
